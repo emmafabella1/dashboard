@@ -1,0 +1,6 @@
+<module rename-to='opsdashboard'>
+  <inherits name='com.smartgwt.SmartGwt'/>
+  <source path='client'/>
+  <source path='DashboardModule'/>
+  <entry-point class='com.jdlogistics.client.OpsDashboardEntryPoint'/>
+</module>
